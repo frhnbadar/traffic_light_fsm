@@ -1,0 +1,58 @@
+# ============================================================
+# Siemens Questa / ModelSim
+# ============================================================
+
+# Compiled simulation library
+work/
+
+# Questa / ModelSim waveform database
+*.wlf
+
+# Simulator transcript
+transcript
+
+# Simulator configuration
+modelsim.ini
+
+# Compiled libraries
+*.lib
+*.dll
+
+# ============================================================
+# Simulation Output
+# ============================================================
+
+# Waveform files
+*.vcd
+*.fst
+*.vpd
+
+# Coverage databases
+*.ucdb
+
+# Simulation logs
+*.log
+
+# ============================================================
+# Temporary Files
+# ============================================================
+
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Operating System Files
+# ============================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
